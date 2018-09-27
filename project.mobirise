@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.3",
     "siteFonts": [],
-    "uniqCompNum": 68,
+    "uniqCompNum": 71,
     "versionPublish": "4.8.3",
     "screenshot": "screenshot.png"
   },
@@ -761,7 +761,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "This music is suitable for different types of environments. The types of environments inclue; nails spas, massage palours and more. This is the type of music that lets you relax and let go of all the stress.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=ZmKy4WbFasM\" data-toolbar=\"-mbrBtnMove\">LIVE DEMO</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">MORE INFO</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://www.youtube.com/watch?v=ZmKy4WbFasM\" data-toolbar=\"-mbrBtnMove\">LIVE DEMO</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
